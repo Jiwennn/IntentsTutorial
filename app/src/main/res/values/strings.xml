@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntentsTutorial</string>
+    <string name="displayText1">What\'s your name?</string>
+    <string name="hint1">Enter here</string>
+    <string name="button1">Send</string>
+    <string name="displayText2">Please enter a URL</string>
+    <string name="button2">Send</string>
+    <string name="hint2">Enter URL</string>
+</resources>
